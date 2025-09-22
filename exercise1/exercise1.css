@@ -1,0 +1,23 @@
+
+
+
+
+title {
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    
+
+}
+
+body {
+    margin: 0;
+    background-image: url("images/cyberfondo.jpg");
+    background-position: center;
+    background-size:cover;
+
+}
